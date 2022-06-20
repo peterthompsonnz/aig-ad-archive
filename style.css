@@ -22,7 +22,7 @@ body {
 
 body {
   font-family: helvetica, arial, sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.15rem;
   color: var(--almost-white, #fefefe);
   background-color: var(--dark-blue-gray, #0c151d);
 }
@@ -52,12 +52,12 @@ h1 {
   text-align: center;
   margin: 0;  
   font-weight: 400;
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   color: var(--pink);
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.9rem;
   font-weight: 400;
   margin: 3rem 0 2rem 0;
   color: var(--pink);
