@@ -29,15 +29,14 @@ body {
 
 main {
   max-width: 75ch;
-  padding: 0 1rem 1rem;
-  /* border-left: 1px solid var(--mid-blue-gray); */
+  padding: 0 1rem 1rem; 
   margin: 0 auto;
   min-height: 100vh;
 }
 
 header {
   background-color: var(--very-dark-blue-gray);
-  padding: 1.5rem 0;
+  padding: 1.5rem 1rem;
 }
 
 footer {
